@@ -1,3 +1,35 @@
 <resources>
     <string name="app_name">Mjcet Student App</string>
+    <string name="item_1">Sign out</string>
+    <string name="john_doe">John Doe</string>
+    <string name="example_gmail_com">example@gmail.com</string>
+    <string name="my_image">my image</string>
+    <string name="attendance">Attendance</string>
+    <string name="marks">Marks</string>
+    <string name="student_activities">Student Activities</string>
+    <string name="almanac">Almanac</string>
+    <string name="mission">Mission</string>
+    <string name="vision">Vision</string>
+    <string name="about_us">About Us</string>
+    <string name="subheader">Subheader</string>
+    <string name="open_drawer">Open navigation drawer</string>
+    <string name="close_drawer">Close navigation drawer</string>
+    <string name="send_to">Share</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication error, Please enter a valid email and password</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_login">Already registered. Login !!</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="btn_sign_up">Sign Up !!</string>
+    <string name="err_msg_email">Enter a valid email.</string>
+    <string name="err_msg_required">Required !!</string>
+    <string name="err_msg_password">Enter a valid password with min 6 characters.</string>
+    <string name="btn_link_to_signup">Don\'t have an account!!</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="btn_forgot_password">Reset your password?</string>
 </resources>
