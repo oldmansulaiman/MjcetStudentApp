@@ -102,7 +102,8 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
             case R.id.attendance_id:
 
-                Toast.makeText(getApplicationContext(),"attendance",Toast.LENGTH_LONG).show();
+                Intent intent = new Intent(this,AttendActivity.class);
+                startActivity(intent);
 
                 break;
 
@@ -132,8 +133,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
             case R.id.about_us_id:
 
-                Intent intent = new Intent(this,AboutActivity.class);
-                startActivity(intent);
+                Toast.makeText(getApplicationContext(),"about",Toast.LENGTH_LONG).show();
 
             break;//
         }
